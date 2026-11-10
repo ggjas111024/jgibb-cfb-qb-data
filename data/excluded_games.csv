@@ -1,0 +1,29 @@
+year,game_id,week,home_team,away_team,reason,notes
+2023,401539476,14,Liberty,New Mexico State,conference_championship,Conference USA Championship
+2023,401539475,14,Washington,Oregon,conference_championship,Pac-12 Championship
+2023,401539481,14,Toledo,Miami (OH),conference_championship,MAC Championship
+2023,401539479,14,Texas,Oklahoma State,conference_championship,Dr Pepper Big 12 Championship
+2023,401539482,14,UNLV,Boise State,conference_championship,Mountain West Championship
+2023,401539483,14,Alabama,Georgia,conference_championship,SEC Championship
+2023,401539477,14,Tulane,SMU,conference_championship,American Athletic Championship
+2023,401539484,14,Troy,App State,conference_championship,Sun Belt Championship
+2023,401539478,14,Florida State,Louisville,conference_championship,ACC Championship
+2023,401539480,14,Iowa,Michigan,conference_championship,Big Ten Championship
+2024,401673466,15,Jacksonville State,Western Kentucky,conference_championship,Conference USA Championship
+2024,401673468,15,Boise State,UNLV,conference_championship,Mountain West Championship
+2024,401673462,15,Army,Tulane,conference_championship,American Athletic Championship
+2024,401673467,15,Miami (OH),Ohio,conference_championship,MAC Championship
+2024,401673465,15,Arizona State,Iowa State,conference_championship,Dr Pepper Big 12 Championship
+2024,401673469,15,Texas,Georgia,conference_championship,SEC Championship
+2024,401673470,15,Louisiana,Marshall,conference_championship,Sun Belt Championship
+2024,401673464,15,Oregon,Penn State,conference_championship,Big Ten Championship
+2024,401673463,15,SMU,Clemson,conference_championship,ACC Championship
+2025,401777325,15,Jacksonville State,Kennesaw State,conference_championship,Conference USA Championship
+2025,401777352,15,James Madison,Troy,conference_championship,Sun Belt Championship
+2025,401777324,15,Tulane,North Texas,conference_championship,American Championship
+2025,401777326,15,Boise State,UNLV,conference_championship,Mountain West Championship
+2025,401777327,15,Texas Tech,BYU,conference_championship,Big 12 Championship
+2025,401777329,15,Western Michigan,Miami (OH),conference_championship,MAC Championship
+2025,401777351,15,Alabama,Georgia,conference_championship,SEC Championship
+2025,401777328,15,Virginia,Duke,conference_championship,ACC Championship
+2025,401777353,15,Ohio State,Indiana,conference_championship,Big Ten Championship

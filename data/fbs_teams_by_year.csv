@@ -1,0 +1,404 @@
+year,team_id,team
+2023,2005,Air Force
+2023,2006,Akron
+2023,333,Alabama
+2023,2026,App State
+2023,12,Arizona
+2023,9,Arizona State
+2023,8,Arkansas
+2023,2032,Arkansas State
+2023,349,Army
+2023,2,Auburn
+2023,252,BYU
+2023,2050,Ball State
+2023,239,Baylor
+2023,68,Boise State
+2023,103,Boston College
+2023,189,Bowling Green
+2023,2084,Buffalo
+2023,25,California
+2023,2117,Central Michigan
+2023,2429,Charlotte
+2023,2132,Cincinnati
+2023,228,Clemson
+2023,324,Coastal Carolina
+2023,38,Colorado
+2023,36,Colorado State
+2023,150,Duke
+2023,151,East Carolina
+2023,2199,Eastern Michigan
+2023,57,Florida
+2023,2226,Florida Atlantic
+2023,2229,Florida International
+2023,52,Florida State
+2023,278,Fresno State
+2023,61,Georgia
+2023,290,Georgia Southern
+2023,2247,Georgia State
+2023,59,Georgia Tech
+2023,62,Hawai'i
+2023,248,Houston
+2023,356,Illinois
+2023,84,Indiana
+2023,2294,Iowa
+2023,66,Iowa State
+2023,55,Jacksonville State
+2023,256,James Madison
+2023,2305,Kansas
+2023,2306,Kansas State
+2023,2309,Kent State
+2023,96,Kentucky
+2023,99,LSU
+2023,2335,Liberty
+2023,309,Louisiana
+2023,2348,Louisiana Tech
+2023,97,Louisville
+2023,276,Marshall
+2023,120,Maryland
+2023,113,Massachusetts
+2023,235,Memphis
+2023,2390,Miami
+2023,193,Miami (OH)
+2023,130,Michigan
+2023,127,Michigan State
+2023,2393,Middle Tennessee
+2023,135,Minnesota
+2023,344,Mississippi State
+2023,142,Missouri
+2023,152,NC State
+2023,2426,Navy
+2023,158,Nebraska
+2023,2440,Nevada
+2023,167,New Mexico
+2023,166,New Mexico State
+2023,153,North Carolina
+2023,249,North Texas
+2023,2459,Northern Illinois
+2023,77,Northwestern
+2023,87,Notre Dame
+2023,195,Ohio
+2023,194,Ohio State
+2023,201,Oklahoma
+2023,197,Oklahoma State
+2023,295,Old Dominion
+2023,145,Ole Miss
+2023,2483,Oregon
+2023,204,Oregon State
+2023,213,Penn State
+2023,221,Pittsburgh
+2023,2509,Purdue
+2023,242,Rice
+2023,164,Rutgers
+2023,2567,SMU
+2023,2534,Sam Houston
+2023,21,San Diego State
+2023,23,San José State
+2023,6,South Alabama
+2023,2579,South Carolina
+2023,58,South Florida
+2023,2572,Southern Miss
+2023,24,Stanford
+2023,183,Syracuse
+2023,2628,TCU
+2023,218,Temple
+2023,2633,Tennessee
+2023,251,Texas
+2023,245,Texas A&M
+2023,326,Texas State
+2023,2641,Texas Tech
+2023,2649,Toledo
+2023,2653,Troy
+2023,2655,Tulane
+2023,202,Tulsa
+2023,5,UAB
+2023,2116,UCF
+2023,26,UCLA
+2023,41,UConn
+2023,2433,UL Monroe
+2023,2439,UNLV
+2023,30,USC
+2023,2638,UTEP
+2023,2636,UTSA
+2023,254,Utah
+2023,328,Utah State
+2023,238,Vanderbilt
+2023,258,Virginia
+2023,259,Virginia Tech
+2023,154,Wake Forest
+2023,264,Washington
+2023,265,Washington State
+2023,277,West Virginia
+2023,98,Western Kentucky
+2023,2711,Western Michigan
+2023,275,Wisconsin
+2023,2751,Wyoming
+2024,2005,Air Force
+2024,2006,Akron
+2024,333,Alabama
+2024,2026,App State
+2024,12,Arizona
+2024,9,Arizona State
+2024,8,Arkansas
+2024,2032,Arkansas State
+2024,349,Army
+2024,2,Auburn
+2024,252,BYU
+2024,2050,Ball State
+2024,239,Baylor
+2024,68,Boise State
+2024,103,Boston College
+2024,189,Bowling Green
+2024,2084,Buffalo
+2024,25,California
+2024,2117,Central Michigan
+2024,2429,Charlotte
+2024,2132,Cincinnati
+2024,228,Clemson
+2024,324,Coastal Carolina
+2024,38,Colorado
+2024,36,Colorado State
+2024,150,Duke
+2024,151,East Carolina
+2024,2199,Eastern Michigan
+2024,57,Florida
+2024,2226,Florida Atlantic
+2024,2229,Florida International
+2024,52,Florida State
+2024,278,Fresno State
+2024,61,Georgia
+2024,290,Georgia Southern
+2024,2247,Georgia State
+2024,59,Georgia Tech
+2024,62,Hawai'i
+2024,248,Houston
+2024,356,Illinois
+2024,84,Indiana
+2024,2294,Iowa
+2024,66,Iowa State
+2024,55,Jacksonville State
+2024,256,James Madison
+2024,2305,Kansas
+2024,2306,Kansas State
+2024,338,Kennesaw State
+2024,2309,Kent State
+2024,96,Kentucky
+2024,99,LSU
+2024,2335,Liberty
+2024,309,Louisiana
+2024,2348,Louisiana Tech
+2024,97,Louisville
+2024,276,Marshall
+2024,120,Maryland
+2024,113,Massachusetts
+2024,235,Memphis
+2024,2390,Miami
+2024,193,Miami (OH)
+2024,130,Michigan
+2024,127,Michigan State
+2024,2393,Middle Tennessee
+2024,135,Minnesota
+2024,344,Mississippi State
+2024,142,Missouri
+2024,152,NC State
+2024,2426,Navy
+2024,158,Nebraska
+2024,2440,Nevada
+2024,167,New Mexico
+2024,166,New Mexico State
+2024,153,North Carolina
+2024,249,North Texas
+2024,2459,Northern Illinois
+2024,77,Northwestern
+2024,87,Notre Dame
+2024,195,Ohio
+2024,194,Ohio State
+2024,201,Oklahoma
+2024,197,Oklahoma State
+2024,295,Old Dominion
+2024,145,Ole Miss
+2024,2483,Oregon
+2024,204,Oregon State
+2024,213,Penn State
+2024,221,Pittsburgh
+2024,2509,Purdue
+2024,242,Rice
+2024,164,Rutgers
+2024,2567,SMU
+2024,2534,Sam Houston
+2024,21,San Diego State
+2024,23,San José State
+2024,6,South Alabama
+2024,2579,South Carolina
+2024,58,South Florida
+2024,2572,Southern Miss
+2024,24,Stanford
+2024,183,Syracuse
+2024,2628,TCU
+2024,218,Temple
+2024,2633,Tennessee
+2024,251,Texas
+2024,245,Texas A&M
+2024,326,Texas State
+2024,2641,Texas Tech
+2024,2649,Toledo
+2024,2653,Troy
+2024,2655,Tulane
+2024,202,Tulsa
+2024,5,UAB
+2024,2116,UCF
+2024,26,UCLA
+2024,41,UConn
+2024,2433,UL Monroe
+2024,2439,UNLV
+2024,30,USC
+2024,2638,UTEP
+2024,2636,UTSA
+2024,254,Utah
+2024,328,Utah State
+2024,238,Vanderbilt
+2024,258,Virginia
+2024,259,Virginia Tech
+2024,154,Wake Forest
+2024,264,Washington
+2024,265,Washington State
+2024,277,West Virginia
+2024,98,Western Kentucky
+2024,2711,Western Michigan
+2024,275,Wisconsin
+2024,2751,Wyoming
+2025,2005,Air Force
+2025,2006,Akron
+2025,333,Alabama
+2025,2026,App State
+2025,12,Arizona
+2025,9,Arizona State
+2025,8,Arkansas
+2025,2032,Arkansas State
+2025,349,Army
+2025,2,Auburn
+2025,252,BYU
+2025,2050,Ball State
+2025,239,Baylor
+2025,68,Boise State
+2025,103,Boston College
+2025,189,Bowling Green
+2025,2084,Buffalo
+2025,25,California
+2025,2117,Central Michigan
+2025,2429,Charlotte
+2025,2132,Cincinnati
+2025,228,Clemson
+2025,324,Coastal Carolina
+2025,38,Colorado
+2025,36,Colorado State
+2025,48,Delaware
+2025,150,Duke
+2025,151,East Carolina
+2025,2199,Eastern Michigan
+2025,57,Florida
+2025,2226,Florida Atlantic
+2025,2229,Florida International
+2025,52,Florida State
+2025,278,Fresno State
+2025,61,Georgia
+2025,290,Georgia Southern
+2025,2247,Georgia State
+2025,59,Georgia Tech
+2025,62,Hawai'i
+2025,248,Houston
+2025,356,Illinois
+2025,84,Indiana
+2025,2294,Iowa
+2025,66,Iowa State
+2025,55,Jacksonville State
+2025,256,James Madison
+2025,2305,Kansas
+2025,2306,Kansas State
+2025,338,Kennesaw State
+2025,2309,Kent State
+2025,96,Kentucky
+2025,99,LSU
+2025,2335,Liberty
+2025,309,Louisiana
+2025,2348,Louisiana Tech
+2025,97,Louisville
+2025,276,Marshall
+2025,120,Maryland
+2025,113,Massachusetts
+2025,235,Memphis
+2025,2390,Miami
+2025,193,Miami (OH)
+2025,130,Michigan
+2025,127,Michigan State
+2025,2393,Middle Tennessee
+2025,135,Minnesota
+2025,344,Mississippi State
+2025,142,Missouri
+2025,2623,Missouri State
+2025,152,NC State
+2025,2426,Navy
+2025,158,Nebraska
+2025,2440,Nevada
+2025,167,New Mexico
+2025,166,New Mexico State
+2025,153,North Carolina
+2025,249,North Texas
+2025,2459,Northern Illinois
+2025,77,Northwestern
+2025,87,Notre Dame
+2025,195,Ohio
+2025,194,Ohio State
+2025,201,Oklahoma
+2025,197,Oklahoma State
+2025,295,Old Dominion
+2025,145,Ole Miss
+2025,2483,Oregon
+2025,204,Oregon State
+2025,213,Penn State
+2025,221,Pittsburgh
+2025,2509,Purdue
+2025,242,Rice
+2025,164,Rutgers
+2025,2567,SMU
+2025,2534,Sam Houston
+2025,21,San Diego State
+2025,23,San José State
+2025,6,South Alabama
+2025,2579,South Carolina
+2025,58,South Florida
+2025,2572,Southern Miss
+2025,24,Stanford
+2025,183,Syracuse
+2025,2628,TCU
+2025,218,Temple
+2025,2633,Tennessee
+2025,251,Texas
+2025,245,Texas A&M
+2025,326,Texas State
+2025,2641,Texas Tech
+2025,2649,Toledo
+2025,2653,Troy
+2025,2655,Tulane
+2025,202,Tulsa
+2025,5,UAB
+2025,2116,UCF
+2025,26,UCLA
+2025,41,UConn
+2025,2433,UL Monroe
+2025,2439,UNLV
+2025,30,USC
+2025,2638,UTEP
+2025,2636,UTSA
+2025,254,Utah
+2025,328,Utah State
+2025,238,Vanderbilt
+2025,258,Virginia
+2025,259,Virginia Tech
+2025,154,Wake Forest
+2025,264,Washington
+2025,265,Washington State
+2025,277,West Virginia
+2025,98,Western Kentucky
+2025,2711,Western Michigan
+2025,275,Wisconsin
+2025,2751,Wyoming

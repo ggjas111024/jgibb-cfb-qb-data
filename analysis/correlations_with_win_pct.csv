@@ -1,0 +1,11 @@
+variable,pearson_correlation,spearman_correlation
+rtg,0.6695,0.6662
+yards_per_attempt,0.6324,0.6439
+td_pct,0.5726,0.5576
+passing_tds,0.4691,0.4546
+cmp_pct,0.4330,0.4137
+passing_yards,0.3636,0.3564
+passing_yards_per_game,0.3357,0.3296
+attempts_per_game,-0.0195,-0.0110
+interceptions,-0.3285,-0.3458
+int_pct,-0.3684,-0.3825

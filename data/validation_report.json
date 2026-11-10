@@ -1,0 +1,58 @@
+{
+  "data_source": "CollegeFootballData API",
+  "source_domain": "collegefootballdata.com",
+  "api_base_url": "https://api.collegefootballdata.com",
+  "seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "observations_by_year": {
+    "2023": 98,
+    "2024": 107,
+    "2025": 107
+  },
+  "fbs_teams_by_year": {
+    "2023": 133,
+    "2024": 134,
+    "2025": 136
+  },
+  "total_observations": 312,
+  "unique_quarterbacks": 219,
+  "unique_teams": 136,
+  "missing_values_by_column": {
+    "year": 0,
+    "qb_id": 0,
+    "qb_name": 0,
+    "team_id": 0,
+    "team": 0,
+    "completions": 0,
+    "attempts": 0,
+    "cmp_pct": 0,
+    "passing_yards": 0,
+    "yards_per_attempt": 0,
+    "passing_tds": 0,
+    "interceptions": 0,
+    "td_pct": 0,
+    "int_pct": 0,
+    "passing_yards_per_game": 0,
+    "attempts_per_game": 0,
+    "rtg": 0,
+    "games_played": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_pct": 0
+  },
+  "meets_200_observation_requirement": true,
+  "ties_included": 0,
+  "sack_fields_included": 0,
+  "errors": [],
+  "excluded_team_seasons": 91,
+  "excluded_games": 28,
+  "exclusions_by_reason": {
+    "primary_qb_fewer_than_10_games": 91
+  },
+  "excluded_games_by_reason": {
+    "conference_championship": 28
+  }
+}
